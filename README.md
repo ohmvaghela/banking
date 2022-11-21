@@ -1,4 +1,3 @@
-# banking
 # inflation
 * What is inflation?
 
@@ -30,10 +29,15 @@
     - measure of change in price of goods and services in market basket
     - CPI = (current_year_basket_value / base_year_basket_value) * 100
     - say base year to be 1950 so 
+
         year  | basket value    | CPI
-        1950  : 1000            | -
+
+        1950  : 1000    <t>        | -
+        
         1960  : 1200            | 120
+        
         1970  : 1400            | 140
+        
         1980  : 1800            | 180
         
 * Calculation of inflation
@@ -142,23 +146,54 @@
     * National Council for Applied Economic Research, Senior advisor - Shashanka Bhide
     * IIMA, finance and accounting professor - Jayanth Varma
 
-######## why committee setup ( Reserve Bank of India Act, 1934)
 
 # finance act 
+
 * Under taxation laws(second amendment) act 2016
 * legislation enacted by indian parliament to give effect to give effect to finantial proposal of cental govt.
 * Encated once a year 
 * Contains provisition related to GST, tax, customs, income tax, excise, relief etc
 * Introduced by finance minister
 
-# Money 
-* functions
+# Money
+
+* functions of money
     * Money stores value
         * until current government exists the money which you will hold same value for ever but its purchasing power decreases
     * Unit of account  
         * You can define value of any goods or service in terms of money 
         * which is convinent rather then valuing goods and services in terms of other goods and services which you may or may not posses 
-    * 
+    * It is mediium of exchange
+        * It is widely accepted mode of payment 
 
+* One ruppee note is issued by finance minister, GOI
+* Other currency notes are issued by RBI
+
+* Components of Money
+    * Currency such as bank notes and coins
+        * prodution of paper notes is under govt. as well as RBI in India 
+        * Govt. - finance minister - 1 ruppee notes | RBI all other notes
+        * Made up of metals and face value is much higher then intrensic value
+
+    * Demand Deposits - saving and current account
+        * Bank account from which funds can be withdrawn anytime without any prior notice
+        * They pay interest buy are very low then time deposits
+
+    * Time Deposits - fixed deposits and reccuring deposits
+        * These are interest bearing bank accounts that has preset date of maturities
+        * And money must remain in account till the interest date 
+
+# LIBOR, TIBOR, MIBOR
+
+* ICE - InterContinential Exchange 
+* earlier BBA - British Bankers' association
+* LIBOR - London Interbank Offered Rate
+* London Interbank Offered Rate serves as major benchmark interest rate for adjustable mortgages, business loans, and finantial instuments trade in global finantial market
+* In it group of banks submit their rates on daily basis and average using waterfall method is calculated and published in 7 maturities and 5 currencies
+    * Overnight, One Week, 1, 2, 3, 6, 12 Month
+    * Swis franc, euro, pund, doller, japanese yen 
+* Used for pricing of interest rate swaps, currency rate swaps as well as mortgages.
+
+######## why committee setup ( Reserve Bank of India Act, 1934)
 > * Deflation vs disinflation
 > credit creation capacity CRR aur SLR likhna hai
