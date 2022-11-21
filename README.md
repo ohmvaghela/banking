@@ -228,6 +228,10 @@
     * Commonly issued by companies to repay their payrolls, payables, inventories and other short term payments
     * Average 30 days , range form 1-270 days 
 
+* Certificate of deposit 
+    * Higher rate of return then savings account/ give premium interest rate if money not withdrawn for fixed amount of time
+    * Low risk as compared to stock market
+
 ## Money market
 
 * Short term debt investment
@@ -236,7 +240,7 @@
     * commercial paper are popular borrowing mechanism
      
 * retail market 
-    * mutual funds, short term certificate of deposit(CD)
+    * market funds, short term certificate of deposit(CD) (ony 3/6 months)
 
 ## Capital Market
 
