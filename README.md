@@ -1,5 +1,4 @@
 # banking
-
 # inflation
 * What is inflation?
 
@@ -59,10 +58,10 @@
             * hence this controls the money supply
 
 * Types of monitary policy
-    * Contractionary / Decrease inflation
+    * Contractionary / Tight Monetary policy / Decrease inflation
         * Increasing interest rates and limiting outstanding money supply 
             * Slows economic growth + decrease inflation
-    * Expansionary / Increase inflation
+    * Expansionary / flexible / Increase inflation
         * during recession --> decreasing interest rates 
             * Saving become less attractive --> money flow increase
 
@@ -118,8 +117,48 @@
 
 # History of mointary policy
 
-* With the creation of <b>Bank of England 1694</b>
+*  <b>Bank of England </b> created in <b>1694</b>
+* This granted authorities to print notes backed by gold
+* Here the idea of monitary policy was established 
+    * Its purpose was to maintain coinage and print notes at par to specie and prevent coins from leaving circulation
+* This lead to establishment of national banks by industrializing nations
+    * Their aim was to maintain currency's relationship with gold standards
+    * To accomplish this national banks started setting interest rates to both borrowers and banks for liquidity 
+    * These standard's require monthly adjustments
+* during 1870-1920 - industrialised nations established central banking system 
+    * Role of central bank as <b>lender of last resort</b> was established
 
-> * Controlling inflation
+# monitary policy committee
+
+* Responsible for fixing interest rates 
+* Held atleast 4 times an year
+* currently mandate is 4% annual inflation with with 6% upper tolerance and 2% lower tolerance 
+
+* Members
+    * RBI govenor - Shaktikanta Das
+    * Deputy RBI govenor - Michael Debrata Patra
+    * Executive director of RBI - Rajiv Ranjan
+    * PM's economic advisor - Amisha Goyal
+    * National Council for Applied Economic Research, Senior advisor - Shashanka Bhide
+    * IIMA, finance and accounting professor - Jayanth Varma
+
+######## why committee setup ( Reserve Bank of India Act, 1934)
+
+# finance act 
+* Under taxation laws(second amendment) act 2016
+* legislation enacted by indian parliament to give effect to give effect to finantial proposal of cental govt.
+* Encated once a year 
+* Contains provisition related to GST, tax, customs, income tax, excise, relief etc
+* Introduced by finance minister
+
+# Money 
+* functions
+    * Money stores value
+        * until current government exists the money which you will hold same value for ever but its purchasing power decreases
+    * Unit of account  
+        * You can define value of any goods or service in terms of money 
+        * which is convinent rather then valuing goods and services in terms of other goods and services which you may or may not posses 
+    * 
+
 > * Deflation vs disinflation
-
+> credit creation capacity CRR aur SLR likhna hai
