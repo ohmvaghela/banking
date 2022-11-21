@@ -306,6 +306,69 @@
         * Finantial instuments that are represented in foriegn market and primary consist of currency aggrement and derivatives
         * Spot, Outright forward, currency swap
 
+# Narasimham Committe
+
+## M. Narasimham Committe - or Narasimham commmitte 1
+
+* Dr Manmohan Singh formed the committe (Then finance minister)
+* Report was given in 1991
+* During the time when there was economic crisis
+    * It was clear that banks were working inefficiently
+    * And banks played crutial role in economy
+* Efficiceny of banks 
+    * Profitability 
+    * Competativeness
+* Recomendations
+    1. Reduce CRR and SLR in phased manner
+    2. (Rejected) Priority sector lending quota should be reduced from 40% to 10% 
+        * A percentage of total amount of loans should be given to priority sector: Eg Agaricultural, Renweable energy etc
+    3. RBI should grant licences to private sector and foriegn sector banks to promote competitions
+    4. Public sector should be given more autonomy
+        * Allowed to be operate on their own terms
+        * less political influence
+    5. Banks should use <b>Information Communication technology</b> to <b>improve transparency</b>
+    6. RBI should adopt centralised Online Real-time Exchange (C.O.R.E) banking solutions
+    7. Debt Recovery Tribunal should be establised to enable banks to quickly recover from dues of defaulters
+    8. Asset Reconstruction company(ARC) should be established to purchase NPA at discounted rates
+        * A.K.A bad banks
+    9. RBI should deregulate interest rates 
+    10. RBI should adept basel norms for regilation of banks
+        * BCBS(Basel Committe on Banking Supervision) issued norms for international banking regulations
+        * An effort to coordinate banking regulations all around the world 
+    
+## Narasimham Committe 2, 1998
+
+* Information Technology and Communication Networking Systems have revolutionised functioning of banking system and finantial institutions
+* Highly Industrialised countries can now access finantial entiries on an on-line basis 
+* This helped in opening up economy and its integration with global market  
+* This helped in overall cost cutting and efficient operations
+* But indian banks took some time to adapt to this inovations and most off inovations were on trial basis
+
+* Recomendations
+    1. Classification of banks into 4 catregories based on competing level
+        1. At international level
+        2. National level
+        3. Regional level
+        4. Rural level
+        * This was rejected and D-SIB(Domstic - Systematically Important Banks) system was adopted
+        * 3 banks came into it SBI,HDFC,ICICI 
+        * These banks have net worth of more the 2% of GDP
+    2. (rejected) Strong banks should be merged with strong banks
+    3. (rejected) Government should reduce its share holding in public sector to 33%
+    4. Capital Adequacy Ratio should be increased from 8 to 9%
+
+# NPA
+* Loans given be Indian banks and finantial institute whose interest or principle ammount has not been paid for farely long amount of time
+* Industries contributing upto 60% to NPA 
+    1. Steel
+    2. Power
+    3. Telecom
+    4. Infrastructure
+    5. Textile 
+* Working of ARC and how they aquire assets
+    * Raising funds - only to Qualiifed Institutional Buyers(QIB) and not to retail buyers
+    * Partnershop Model - Debt remains on books of bank and ARC provide recovery services and have predetemined amount of profit
+
 ######## why committee setup ( Reserve Bank of India Act, 1934)
 > * Deflation vs disinflation
 > credit creation capacity CRR aur SLR likhna hai
