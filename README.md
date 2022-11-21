@@ -143,14 +143,14 @@
     * Deputy RBI govenor - Michael Debrata Patra
     * Executive director of RBI - Rajiv Ranjan
     * PM's economic advisor - Amisha Goyal
-    * National Council for Applied Economic Research, Senior advisor - Shashanka Bhide
+    * NCAER National Council for Applied Economic Research, Senior advisor - Shashanka Bhide
     * IIMA, finance and accounting professor - Jayanth Varma
 
 
 # finance act 
 
 * Under taxation laws(second amendment) act 2016
-* legislation enacted by indian parliament to give effect to give effect to finantial proposal of cental govt.
+* legislation enacted by indian parliament to give effect to give effect to financial proposal of cental govt.
 * Encated once a year 
 * Contains provisition related to GST, tax, customs, income tax, excise, relief etc
 * Introduced by finance minister
@@ -172,7 +172,7 @@
 * Components of Money
     * Currency such as bank notes and coins
         * prodution of paper notes is under govt. as well as RBI in India 
-        * Govt. - finance minister - 1 ruppee notes | RBI all other notes
+        * Govt. - finance minister - 1 ruppee notes | RBI all other notes and coins
         * Made up of metals and face value is much higher then intrensic value
 
     * Demand Deposits - saving and current account
@@ -188,12 +188,132 @@
 * ICE - InterContinential Exchange 
 * earlier BBA - British Bankers' association
 * LIBOR - London Interbank Offered Rate
-* London Interbank Offered Rate serves as major benchmark interest rate for adjustable mortgages, business loans, and finantial instuments trade in global finantial market
+* London Interbank Offered Rate serves as major benchmark interest rate for adjustable mortgages, business loans, and financial instuments trade in global financial market
 * In it group of banks submit their rates on daily basis and average using waterfall method is calculated and published in 7 maturities and 5 currencies
     * Overnight, One Week, 1, 2, 3, 6, 12 Month
     * Swis franc, euro, pund, doller, japanese yen 
 * Used for pricing of interest rate swaps, currency rate swaps as well as mortgages.
 
+# CRR and SLR
+
+## CRR Cash Reserve Ratio
+
+* Ratio of deposited money bank must retain in Central bank by all the commertial banks
+* Must be maintained in terms of liquid cash
+* Banks are not allowed to use this money for any economic and commertial purpose
+* RBI use this liquid cash to maintain liquidity and cash flow in the economy
+
+## SLR Statutory Liquidity Ratio
+
+* It is an obligatory reserve that banks must maintian.
+* Maintained it terms of cash, gold or government approved securities
+* Precentage is determined in terms of net demands and timed liabilities
+* Reserved in commertial banks itself.
+* Maintain credit growth of country
+
+# Credit Creation
+
+* Credit : You are given purchasing power now and you are promissing to pay sometime in future
+* Credit creation working 
+    * Liquidity : bank must pay depositors when they exercise right to demand cash
+    * Profitability : Banks much charge interest on loans higher then what they give to depositors
+* Credit creation capacity is inversely proportional to CRR, SLR 
+    * Higher the CRR and SLR lesser the amonunt to give loans
+    * Credit multiplier = 100/CRR (where CRR is in percentage) 
+
+# money market and capital market
+
+* Commertial paper 
+    * form of short term, unsecured debt
+    * Commonly issued by companies to repay their payrolls, payables, inventories and other short term payments
+    * Average 30 days , range form 1-270 days 
+
+## Money market
+
+* Short term debt investment
+* wholesale market 
+    * trade between institute and traders
+    * commercial paper are popular borrowing mechanism
+     
+* retail market 
+    * mutual funds, short term certificate of deposit(CD)
+
+## Capital Market
+
+* long term investment
+* Here the saving and investments are channeled between suppliers and those who neeed
+* Suppliers - People and institutions with capital
+* Lenders - Banks and investor
+* Common types of capital market 
+    * Stocks market
+    * Bond market
+* Primary market - new equity stocks and bonds are traded
+* Secoundary market - trade exist in securities
+
+# Nirav Modi scam
+
+* Buyer's credit
+    * Buyers credit is a short term loan given to an importer by an overseas bank or financial institution to purchase capital goods, and services  
+
+* LOU(Letter of Understanding)
+    * formal text document that sums up the terms of undertaking of a contrat which may be negotiated informally
+
+* Working of import-export
+    * Importer ask local bank to ask foriegn bank to give credit 
+    * local bank sends LOU to foriegn bank after taking collateral
+    * Foriegn bank adds money to nostro account of local bank 
+    * Now this money in nostro account can be used to buy goods and services
+    * Importor pays local bank ( amount + interst ) 
+    * local bank pays foriegn bank (amount + interest)
+
+* Scam 
+    * PNB(mumbai) + Hongkong Axis bank
+    * Nirav modi and his family used to take LOUs without giving collaterals (after convincing bank officials)
+    * This was acived by not registering LOU in CBS(core banking solutions)
+    * So after using money from nostro account nirav modi's companies used to default on payments 
+    * And no data was found as LOUs were not registered in CBS
+    * This way nirav modi didnt payed for the money he used in hongkong, this was since 2011, 11,000 crores
+
+# financial instuments
+
+* Contracts for monitary assets that can be purchased, traded, created, modified, or settled for 
+
+* Monitary value - value of amount paid in cash for any goods or services that are sold to third parties.
+
+* Underlying assets - refer to financial assets or securities that financial derivatives are based on
+
+* Types of financial instuments
+    * Cash instuments
+
+        * Values directly influenced by market conditions
+        
+        * Securities 
+            * financial instument that has a monitary value and can be traded in stock market 
+        
+        * Deposits and loans
+            * Both are financial instuments that have monitary value with have some sort of contractual agreement between two parties
+    
+    * Derivative instuments
+        
+        * financial instuments whose values is based underlying assets
+        * Synthetic aggrement, forward, future, options and swaps
+    
+    * Foriegn exchange instuments
+        * Finantial instuments that are represented in foriegn market and primary consist of currency aggrement and derivatives
+        * Spot, Outright forward, currency swap
+
 ######## why committee setup ( Reserve Bank of India Act, 1934)
 > * Deflation vs disinflation
 > credit creation capacity CRR aur SLR likhna hai
+
+
+##
+CPI food and bevrages 
+WPI manufacturing 65% 
+
+In india 
+    2014 onwards - CPI
+    bbefore 2014 - WPI
+    base year
+    CPI - 2012
+    WPI - 2011-12
