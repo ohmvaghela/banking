@@ -286,6 +286,31 @@
 
 * Underlying assets - refer to financial assets or securities that financial derivatives are based on
 
+* Bonds 
+    * issued by governmet and coorporations when they need money
+    * Type of a loan 
+    * Payed back on specific date and with periodic interest
+    * Backed by colletral
+
+* Debanture
+    * Long term debt, with no secutries and collateral
+    * Usually Issed by large companines and finantial institutions
+    * High rate of interest then Bonds 
+
+* Treasury Bill
+    * Short Term debts issued by govt of india
+    * three tenors 
+        * 91,182,364
+    * Issued at discount rates and redemmed at face value
+
+* Commertial paper 
+    * form of short term, unsecured debt
+    * Commonly issued by companies to repay their payrolls, payables, inventories and other short term payments
+    * Average 30 days , range form 1-270 days 
+
+* CD Cerfificate of deposit 
+
+
 * Types of financial instuments
     * Cash instuments
 
@@ -382,6 +407,27 @@
         * MSE - 11.4%
     * Non-priority sector - 55.2%
         * Top coal, retail loans, personal loans , Computer software, housing loans
+
+# Sri Lanka crisis
+
+* Years of mismanagement
+    * Imports are more then exports - trade deficit
+    * Spends more then It earns - budget deficit
+    * It kept on borrowing - Debt- GDP ratio - 100+ precent
+    * Deep tax cuts
+    * Due to this investors fled country 
+    * april 2021 banned all chemical fertilisers 
+        * shortage of dollor to buy fertilisers
+        * agariculture production fell by 50% 
+            * Need to import rice
+        * Baned improt on luxary goods
+    * Went from pro-market approch to welfare driven mode 
+        * invested in infrastructure
+    * Covid-19 Hit the tourism - 13% GDP
+    * Bleeding foriegn reserves
+    * Huge debts
+    * Inflation
+    * tanking currency 
 
 ######## why committee setup ( Reserve Bank of India Act, 1934)
 > * Deflation vs disinflation
