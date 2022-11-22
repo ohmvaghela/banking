@@ -15,7 +15,7 @@
 * Types of inflation
     - Demand-pull inflation
         - When there is increase in money supply → Overall demand of goods and services increase more than the production capacity → this leads to increase in price due to lack of supply  
-    - cost-pull inflation 
+    - cost-push inflation 
         - When there increase in price or decrease in price of → raw-marterial or labour → overall cost of final product increase
     - Built-in inflation
         - As prices of goods and services increase → labour's wage expectations also increase → this cause prices of goods and services to increase 
@@ -369,6 +369,20 @@
     * Raising funds - only to Qualiifed Institutional Buyers(QIB) and not to retail buyers
     * Partnershop Model - Debt remains on books of bank and ARC provide recovery services and have predetemined amount of profit
 
+* According to RBI
+    * Sub-standard Asset - NPA for period less then 12 months
+    * Doubtful Asset - NPA for poriod more then 12 months   
+    * Loss Asset - One Which has been identified by internal or external auditors or RBI inspector but the amount has not been written yet 
+        * These assets are uncollectable and have such low value that it cannot be continued as bankable assets 
+
+* Contribution 
+    * Priority sector - 44.8%
+        * Agariculture - 14.1%
+        * SSI - 11.6%
+        * MSE - 11.4%
+    * Non-priority sector - 55.2%
+        * Top coal, retail loans, personal loans , Computer software, housing loans
+
 ######## why committee setup ( Reserve Bank of India Act, 1934)
 > * Deflation vs disinflation
 > credit creation capacity CRR aur SLR likhna hai
@@ -384,3 +398,5 @@ In india
     base year
     CPI - 2012
     WPI - 2011-12
+
+SLR, CRR, Repo rate, Reverse repo rate
